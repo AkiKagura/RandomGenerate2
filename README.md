@@ -1,2 +1,2 @@
 # RandomGenerate2
-With PyQt5 GUI
+生成指定个数的随机数
